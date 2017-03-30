@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:background="#e8d2e8">
+
+    <Button
+        android:id="@+id/apple"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:layout_margin="5dp"
+        android:text="Table [Apple] - Empty" />
+
+    <Button
+        android:id="@+id/grape"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:layout_margin="5dp"
+        android:text="Table [Grape] - Empty" />
+
+    <Button
+        android:id="@+id/kiwi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:layout_margin="5dp"
+        android:text="Table [Kiwi] - Empty" />
+
+    <Button
+        android:id="@+id/pear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:layout_margin="5dp"
+        android:text="Table [Pear] - Empty" />
+</LinearLayout>
